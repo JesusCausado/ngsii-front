@@ -1,0 +1,11 @@
+.container_table {
+    overflow-y: auto;
+  }
+  
+.celda {
+  width: 100px!important;
+}
+
+.celdaTable {
+  min-width: 100px!important;
+}
